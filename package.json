@@ -2,5 +2,9 @@
   "devDependencies": {
     "css-loader": "^6.10.0",
     "file-loader": "^6.2.0"
+  },
+  "dependencies": {
+    "react-use-redux-callback-router": "^0.1.1",
+    "redux-thunk": "^3.1.0"
   }
 }
